@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/demczur-group/static/css/main.f855e6bc.css",
-    "main.js": "/demczur-group/static/js/main.9cab7f15.js",
+    "main.css": "/demczur-group/static/css/main.67841a27.css",
+    "main.js": "/demczur-group/static/js/main.21892a2b.js",
     "static/js/787.d4aba7ab.chunk.js": "/demczur-group/static/js/787.d4aba7ab.chunk.js",
-    "static/media/logo.svg": "/demczur-group/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/construction_image.jpg": "/demczur-group/static/media/construction_image.6ee55abba7a4749234fa.jpg",
+    "static/media/dtz_background.jpeg": "/demczur-group/static/media/dtz_background.5db80773fac30b1291f9.jpeg",
+    "static/media/dtz_logo.png": "/demczur-group/static/media/dtz_logo.af53edc12d251a4dc4d4.png",
     "index.html": "/demczur-group/index.html",
-    "main.f855e6bc.css.map": "/demczur-group/static/css/main.f855e6bc.css.map",
-    "main.9cab7f15.js.map": "/demczur-group/static/js/main.9cab7f15.js.map",
+    "main.67841a27.css.map": "/demczur-group/static/css/main.67841a27.css.map",
+    "main.21892a2b.js.map": "/demczur-group/static/js/main.21892a2b.js.map",
     "787.d4aba7ab.chunk.js.map": "/demczur-group/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9cab7f15.js"
+    "static/css/main.67841a27.css",
+    "static/js/main.21892a2b.js"
   ]
 }
